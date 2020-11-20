@@ -7,7 +7,7 @@ public class PrintDuplicateCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		printDuplicateCharacter("java javascript and zaid khan");
+		printDuplicateCharacter("zaidkhanB.TechEngineer");
 	}
 
 	public static void printDuplicateCharacter(String str) {
